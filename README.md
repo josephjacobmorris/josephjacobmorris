@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephb160515cs
-- 👀 I’m interested in Java, Spring, ANTLR, Docker , Docker Swarm, Kubernetes
-- 🌱 I’m currently learning elasticsearch
+- 👀 I’m interested in Java, Spring, ANTLR, Docker , Docker Swarm, Kubernetes, elasticsearch
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can mail me on josephjacob1998@gmail.com
 
