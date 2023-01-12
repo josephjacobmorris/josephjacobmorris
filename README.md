@@ -20,3 +20,7 @@
     <img src="https://img.shields.io/badge/linkedin-%564bb216.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </div>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=josephjacobmorris&show_icons=true&count_private=true&theme=radical" width="350"></a>
+</p>
