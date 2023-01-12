@@ -4,7 +4,19 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can mail me on josephjacob1998@gmail.com
 
-<!---
-josephb160515cs/josephb160515cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align='left'>
+   Joseph Jacob 
+</h1>
+
+<p align='left'>
+  Technical Project Lead,Technologies India Pvt. Ltd. and Member of SODA Foundation.
+</p>
+<p>I am based out of Bengaluru, Karnataka, India.</p>
+
+
+
+<div align='center'>
+  <a href="https://www.linkedin.com/in/joseph-jacob-564bb2168/">
+    <img src="https://img.shields.io/badge/linkedin-%564bb216.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</div>
