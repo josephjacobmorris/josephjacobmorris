@@ -21,6 +21,7 @@
   </a>&nbsp;&nbsp;
 </div>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=josephjacobmorris&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
+<div align="center">
+  <h3>My GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=josephjacobmorris" />
+</div>
