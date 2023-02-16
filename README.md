@@ -3,7 +3,7 @@
 </h1>
 
 <p align='left'>
-  Technical Project Lead,Technologies India Pvt. Ltd. and Member of SODA Foundation.
+  Huawei Technical Project Lead,Technologies India Pvt. Ltd. and Member of SODA Foundation.
 </p>
 <p>I am based out of Bengaluru, Karnataka, India.</p>
 
