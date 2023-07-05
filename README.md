@@ -3,7 +3,8 @@
 </h1>
 
 <p align='left'>
-   Technical Project Lead, Huawei Technologies India Pvt. Ltd. and Member of SODA Foundation.
+   SDE-2 @ Tesco
+   Ex-Technical Project Lead, Huawei Technologies India Pvt. Ltd. and Member of SODA Foundation.
 </p>
 <p>I am based out of Bengaluru, Karnataka, India.</p>
 
